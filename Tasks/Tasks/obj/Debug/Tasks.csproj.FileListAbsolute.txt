@@ -1,0 +1,11 @@
+C:\Users\beste\source\repos\Tasks\Tasks\bin\Debug\Tasks.exe.config
+C:\Users\beste\source\repos\Tasks\Tasks\bin\Debug\Tasks.exe
+C:\Users\beste\source\repos\Tasks\Tasks\bin\Debug\Tasks.pdb
+C:\Users\beste\source\repos\Tasks\Tasks\obj\Debug\Tasks.csproj.AssemblyReference.cache
+C:\Users\beste\source\repos\Tasks\Tasks\obj\Debug\Tasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\beste\source\repos\Tasks\Tasks\obj\Debug\Tasks.Form1.resources
+C:\Users\beste\source\repos\Tasks\Tasks\obj\Debug\Tasks.Properties.Resources.resources
+C:\Users\beste\source\repos\Tasks\Tasks\obj\Debug\Tasks.csproj.GenerateResource.cache
+C:\Users\beste\source\repos\Tasks\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\beste\source\repos\Tasks\Tasks\obj\Debug\Tasks.exe
+C:\Users\beste\source\repos\Tasks\Tasks\obj\Debug\Tasks.pdb
